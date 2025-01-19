@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "title": "Ipad Pro",
+  "price": 40000,
+  "rating": "5.5",
+  "category": "Computer",
+  "colors": [
+    "Red",
+    "Blue"
+  ]
+}
